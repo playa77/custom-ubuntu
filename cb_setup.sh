@@ -44,7 +44,7 @@ echo "📦 Installing X11, Openbox, and core lightweight desktop tools..."
 sudo apt install -y \
     xorg xserver-xorg xinit x11-xserver-utils \
     openbox obconf \
-    tint2 conky nitrogen picom lxappearance \
+    tint2 conky-all nitrogen picom lxappearance \
     thunar thunar-archive-plugin thunar-volman gvfs gvfs-backends \
     lightdm lightdm-gtk-greeter lxpolkit
 
